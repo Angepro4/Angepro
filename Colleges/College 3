@@ -1,0 +1,7 @@
+name = input('enter your name:')
+age = eval(input('age?'))
+
+if age >= 18:
+    print('You can vote!')
+else:
+    print(name + ' you cannot vote!')
