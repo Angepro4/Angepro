@@ -1,0 +1,2 @@
+infile = open('hardlopers.txt',
+infile.append('Thu 10 Mar 2016, 10:45:52, Miranda Thu 10 Mar 2016, 10:46:04, Piet Thu 10 Mar 2016, 10:47:27, Sacha Thu 10 Mar 2016, 10:48:33, Karel Thu 10 Mar 2016, 10:48:42, Kemal')

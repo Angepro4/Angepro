@@ -1,0 +1,6 @@
+leeftijd = int(input('geef je leeftijd:'))
+paspoort = input('Heeft u een Nederlands paspoort?:')
+if leeftijd >=18 and paspoort == 'ja':
+    print('U mag stemmen!')
+else:
+    print('U mag niet stemmen!')
