@@ -2,10 +2,11 @@ from tkinter import *
 from langs import teksten
 from tkinter.messagebox import showinfo
 from PIL import Image, ImageTk
-from GUI.vertrekXML import *
+from vertrekXML import *
 import requests
 import xmltodict
 import time
+
 
 aantalkliks = 0
 bestemmingen = list()
